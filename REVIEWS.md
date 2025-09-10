@@ -109,4 +109,8 @@ To turn this plan into reality, I need to understand a few things better. My que
   For the initial launch (Month 4), are all features mandatory? For instance, could the AR feature or the loyalty program be moved to a later update to ensure a stable launch of the core shopping experience?
 
 - **Q8. Beta Testing:**  
-  You mentioned beta testing with 100 users. Do you have a list of testers in mind (e.g., friends, family, local communities)? We will need their feedback specifically on
+  You mentioned beta testing with 100 users. Do you have a list of testers in mind (e.g., friends, family, local communities)? We will need their feedback specifically on the checkout process.
+
+## Website & App Blueprint
+
+See the [BluePrint here](./README.md).
